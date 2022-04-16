@@ -10,7 +10,7 @@ class Recipe {
   static List<Recipe> samples = [
     Recipe(
       'Сats',
-      'kot_evropa.jpg',
+      '',
       4,
       [
         Ingredient(
@@ -32,7 +32,7 @@ class Recipe {
     ),
     Recipe(
       'Dogs',
-      'Dogs_Dalmatian_548578_3840x2160.jpg',
+      '',
       2,
       [
         Ingredient(
@@ -44,7 +44,7 @@ class Recipe {
     ),
     Recipe(
       'Turtle',
-      'cherepaha.jpg',
+      '',
       24,
       [
         Ingredient(
@@ -66,7 +66,7 @@ class Recipe {
     ),
     Recipe(
       'Aquarium fish',
-      's-kem-uzhivayutsya-v-akvariume-rybki-neony.jpg',
+      '',
       1,
       [
         Ingredient(
@@ -93,7 +93,7 @@ class Recipe {
     ),
     Recipe(
       'Parrot',
-      'bird-wing-beak-yellow-fauna-lorikeet-lovebird-vertebrate-parrot-parakeet-common-pet-parakeet-112931.jpg',
+      '',
       4,
       [
         Ingredient(

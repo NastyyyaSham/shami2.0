@@ -1,0 +1,96 @@
+
+{
+    "recipes": [
+        {
+            "id": "rec1",
+            "dishImage": "",
+            "title": "Сева",
+            "duration": "мальчик/2 года",
+            "source": "https://",
+            "information": [
+
+            ]
+        },
+        {
+            "id": "rec2",
+            "dishImage": "",
+            "title": "Кози",
+            "duration": "девочка/2 года",
+            "source": "https://",
+            "information": [
+                "Порода: Беспородная",
+                "Размер: Небольшой",
+                "Тип: Семейная"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "",
+            "title": "Соня",
+            "duration": "девочка /2 года",
+            "source": "https://",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "",
+            "title": "Лили",
+            "duration": "1 hour",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "assets/recipes_img/mint.png",
+            "title": "Колифорния",
+            "duration": "40 mins",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+
+        },
+        {
+            "id": "rec6",
+            "dishImage": "",
+            "title": "Мифодий",
+            "duration": "мадьчик/з года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "assets/recipes_img/lavanda.png",
+            "title": "Тревис",
+            "duration": "20 mins",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        }
+
+    ]
+}
